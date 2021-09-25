@@ -1,0 +1,31 @@
+.article1 {
+  background-color: white;
+  border: 1px solid black;
+  width: 60%;
+  height: 30;
+  padding: 20px;
+  box-sizing: fixed;
+  margin: 15px;
+}
+.article2 {
+  background-color: white;
+  border: 1px dashed black;
+  width: 60%;
+  height: 30;
+  padding: 20px;
+  box-sizing: fixed;
+  margin: 15px;
+}
+.parag1 {
+  border: 2px dashed red;
+}
+.article3 {
+    background-color: white;
+    color: purple;
+    border: 1px solid black;
+    width: 60%;
+    height: 30;
+    padding: 20px;
+    box-sizing: fixed;
+    margin: 15px;
+  
